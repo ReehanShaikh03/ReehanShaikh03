@@ -18,8 +18,8 @@ I am a data science beginner passionate about building predictive models, cleani
 
 <div align="center">
   <!-- NOTE: Replace [Your-GitHub-Username] with your actual GitHub handle in the two links below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReehanShaikh03&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReehanShaikh03&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" height="150" alt="Top Languages" />
 </div>
 
 ---
