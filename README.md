@@ -17,8 +17,7 @@ I am a data science beginner passionate about building predictive models, cleani
 [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://github.com/[Your-GitHub-Username])
 
 ### Databases
-[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/[Your-GitHub-Username])
-
+[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![]
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **[e.g., PyTorch, Advanced SQL Window Functions, A/B Testing]**
@@ -40,7 +39,7 @@ I am a data science beginner passionate about building predictive models, cleani
 ## 🛠️ Tech Stack & Tools
 
 **Programming & Databases:** 
-* `Python` | `SQL` | `[R]`
+* `Python` | `SQL` | 'C++' | 'C'
 
 **Data Science Libraries:** 
 * `Pandas` | `NumPy` | `Scikit-Learn` | `Matplotlib` | `Seaborn`
@@ -54,7 +53,7 @@ I am a data science beginner passionate about building predictive models, cleani
 
 | Project Name | Description | Technologies |
 |--------------|-------------|--------------|
-| **[Project 1 Name](Link to your repo)** | [Brief 1-sentence description of what it does] | Python, Pandas, Scikit-Learn |
+| **[Banking System](https://github.com/ReehanShaikh03/Banking-System)** | [A full-stack,banking application] | powered by Java, PostgreSQL, React 19 |
 | *
 
 ---
